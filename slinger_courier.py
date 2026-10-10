@@ -14,5 +14,5 @@ for i, (label, url) in enumerate(pairs, 1):
     print(f"Downloading {label} -> {target}")
     urllib.request.urlretrieve(url, target)
 
-if len(pairs) != 8:
-    raise SystemExit(f"Expected 8 clips, found {len(pairs)}")
+if not pairs:
+    raise SystemExit("No MP4 links found")
