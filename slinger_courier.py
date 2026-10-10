@@ -3,7 +3,8 @@ import re
 import urllib.request
 
 src = Path("slinger-transfer.md").read_text(encoding="utf-8")
-pairs = re.findall(r"\[([^\]]+)\]\((https://[^)]+\.mp4)\)", src)
+pairs = re.findall(r"\[([^\]]+)\]\((https://[^)]+)\)", src)
+pairs = [(label, url) for label, url in pairs if ".mp4" in url]
 out = Path("slinger-openart")
 out.mkdir(exist_ok=True)
 
