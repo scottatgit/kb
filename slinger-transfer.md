@@ -10,3 +10,5 @@
 - [Home Reprise](https://storage.googleapis.com/vidiq-user-videos/3e0b69aa-3277-4737-99e1-bec474092284/42707c29-3bd4-4f7a-98cf-a2692c4b53ed.mp4?GoogleAccessId=ai-proxy-20261001%40studious-pen-429.vid.io.iam.gserviceaccount.com&Expires=1792202271&Signature=Y7ew6wC75fvhsSSqqLACP%2BMpyyd6C4nqjYgFe%2BfDmpwL%2BGD7rEeMl37hxMCDg68slT%2BIMQdbKrc4%2BDbh5sbYymfT4LFVnylhrnrh7XTbbRVsXjYizTg4BaXYWS5bTWopoGP1LmGZNa5%2BR%2BJu%2BB9i00qWqzsUqkw2MFSg2SnFYnCmSRMLWBlhS0ZVqQ8LtmTQ2qTS1fGRGoo2qec8WpmpR%2BsBZE2iJGZowdIXgzohBe30rTGD6APHeK11RFA0by%2FiVkruCOINDUyQUDuP0BLjUYzrDska4FdzJrW6oJLHYX%2FTq1RDjltDZL1DJyewxzGFSQI24jEtmFJz24w8G0zZkw%3D%3D)
 
 Trigger mirror transfer.
+
+Trigger parser fix.
